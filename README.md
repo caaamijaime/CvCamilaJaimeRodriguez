@@ -1,5 +1,5 @@
 # CvCamilaJaimeRodriguez
-Esta es una WEB de un curriculum vitae.
+Esta es una WEB de mi curriculum vitae.
 
 ![](https://github.com/caaamijaime/CvCamilaJaimeRodriguez/blob/main/captura%20cv.png)
 
